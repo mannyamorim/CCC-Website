@@ -30,7 +30,7 @@ The problem with this approach is simply that this would require too much memory
 
 A brute force solution that receives 6/15 points and uses a recursive dynamic programming approach
 
-View Brute Force Solution
+[View Brute Force Solution]({{< relref "brute-force" >}})
 {{< /hint >}}
 
 ## Key Insight #2
@@ -53,5 +53,5 @@ You don't need an array to add the numbers computed above. If the point array is
 
 {{< hint warning >}}
 **Please attempt to solve the problem on your own before viewing the solution!**  
-View Solution
+[View Solution]({{< relref "solution" >}})
 {{< /hint >}}

@@ -4,7 +4,7 @@ date: 2020-04-01T13:36:55-04:00
 draft: false
 ---
 
-# 2016-S2 Combining Rice Balls
+# 2016-S4 Combining Rice Balls
 
 {{< hint info >}}
 **Problem Description**  

@@ -55,7 +55,7 @@ To do this we need to go through each room and and each door and maintain the re
 
 A brute force solution that receives 5/15 points and uses the next door optimization.
 
-View Brute Force Solution
+[View Brute Force Solution]({{< relref "brute-force" >}})
 {{< /hint >}}
 
 ## Key Insight #3
@@ -225,5 +225,5 @@ Note that compared to the brute force solution which requires walking 38 hallway
 
 {{< hint warning >}}
 **Please attempt to solve the problem on your own before viewing the solution!**  
-View Solution
+[View Solution]({{< relref "solution" >}})
 {{< /hint >}}

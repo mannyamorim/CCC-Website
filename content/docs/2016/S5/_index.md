@@ -27,7 +27,7 @@ The circle of life problem requires you to study the relationships between the g
 **Brute Force Implementation**  
 A brute force solution that receives 5/15 points and uses a bit shifting approach.
 
-View Brute Force Solution
+[View Brute Force Solution]({{< relref "brute-force" >}})
 {{< /hint >}}
 
 ## Key Insight #2

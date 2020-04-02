@@ -33,7 +33,7 @@ We can see from the above diagrams that each bowtie is mirrored. This means that
 
 A brute force solution that receives 7/15 points and uses two multimaps to store and retreive the points.
 
-View Brute Force Solution
+[View Brute Force Solution]({{< relref "brute-force" >}})
 {{< /hint >}}
 
 ## Optimized Searching Algorithm
@@ -167,5 +167,5 @@ These two arrays allow the search for how many points have the same Y value left
 
 {{< hint warning >}}
 **Please attempt to solve the problem on your own before viewing the solution!**  
-View Solution
+[View Solution]({{< relref "solution" >}})
 {{< /hint >}}
