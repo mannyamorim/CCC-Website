@@ -8,7 +8,7 @@ draft: false
 
 {{< hint info >}}
 **Problem Description**  
-View Problem
+[View Problem](https://cemc.uwaterloo.ca/contests/computing/2016/stage%201/seniorEn.pdf)
 {{< /hint >}}
 
 ## Key Insight #1
@@ -69,5 +69,5 @@ We can generalize the formula above by saying that a cell N that is T generation
 
 {{< hint warning >}}
 **Please attempt to solve the problem on your own before viewing the solution!**  
-View Solution
+[View Solution]({{< relref "solution" >}})
 {{< /hint >}}

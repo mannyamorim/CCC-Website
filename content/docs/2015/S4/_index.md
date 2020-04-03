@@ -8,7 +8,7 @@ draft: false
 
 {{< hint info >}}
 **Problem Description**  
-View Problem
+[View Problem](https://cemc.uwaterloo.ca/contests/computing/2015/stage%201/seniorEn.pdf)
 {{< /hint >}}
 
 ## Key Insight
@@ -29,5 +29,5 @@ We can use a modified dijkstra's algorithm to solve this problem. A normal dijks
 
 {{< hint warning >}}
 **Please attempt to solve the problem on your own before viewing the solution!**  
-View Solution
+[View Solution]({{< relref "solution" >}})
 {{< /hint >}}

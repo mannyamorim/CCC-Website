@@ -8,7 +8,7 @@ draft: false
 
 {{< hint info >}}
 **Problem Description**  
-View Problem
+[View Problem](https://cemc.uwaterloo.ca/contests/computing/2017/stage%201/seniorEF.pdf)
 {{< /hint >}}
 
 ## Key Insight #1
@@ -36,5 +36,5 @@ There are a few corner cases to watch out for when programming this problem. The
 
 {{< hint warning >}}
 **Please attempt to solve the problem on your own before viewing the solution!**  
-View Solution
+[View Solution]({{< relref "solution" >}})
 {{< /hint >}}

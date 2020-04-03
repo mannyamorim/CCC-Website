@@ -8,7 +8,7 @@ draft: false
 
 {{< hint info >}}
 **Problem Description**  
-View Problem
+[View Problem](https://cemc.uwaterloo.ca/contests/computing/2016/stage%201/seniorEn.pdf)
 {{< /hint >}}
 
 ## Analysis
@@ -315,5 +315,5 @@ In this case, it is clear that the best choice of DP container is a 2-dimensiona
 
 {{< hint warning >}}
 **Please attempt to solve the problem on your own before viewing the solution!**  
-View Solution
+[View Solution]({{< relref "solution" >}})
 {{< /hint >}}
