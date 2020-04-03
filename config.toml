@@ -1,7 +1,12 @@
-baseURL = "http://example.org/"
+baseURL = "https://amorim.ca/"
 languageCode = "en-us"
 title = "Canadian Computing Competition Solutions"
 theme = "book"
+enableGitInfo = true
 
 [params]
 	BookMenuBundle = '/menu'
+	BookRepo = 'https://github.com/mannyamorim/CCC-Website'
+	BookEditPath = 'edit/master/content'
+	BookSearch = true
+	BookComments = false
