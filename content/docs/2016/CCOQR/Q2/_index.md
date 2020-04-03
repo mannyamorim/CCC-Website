@@ -1,7 +1,5 @@
 ---
 title: "2016-CCOQR-Q2 Through A Maze Darkly"
-date: 2020-04-01T13:36:55-04:00
-draft: false
 ---
 
 # 2016-CCOQR-Q2 Through A Maze Darkly

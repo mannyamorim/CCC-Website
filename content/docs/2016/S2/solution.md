@@ -1,7 +1,5 @@
 ---
 title: "2016-S2 Tandem Bicycle - Solution"
-date: 2020-04-01T13:36:55-04:00
-draft: false
 ---
 
 # 2016-S2 Tandem Bicycle - Solution
