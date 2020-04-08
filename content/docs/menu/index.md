@@ -14,6 +14,8 @@ headless: true
 	- [CCOQR-Q3 Data Structure]({{< relref "/docs/2016/CCOQR/Q3" >}})
 - **2017**
 	- [S3 Nailed It!]({{< relref "/docs/2017/S3" >}})
+- **2020**
+	- [S3 Searching for Strings]({{< relref "/docs/2020/S3" >}})
 <br />
 
 - **Helpful Tips**
