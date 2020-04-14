@@ -16,6 +16,7 @@ headless: true
 	- [S3 Nailed It!]({{< relref "/docs/2017/S3" >}})
 - **2020**
 	- [S3 Searching for Strings]({{< relref "/docs/2020/S3" >}})
+	- [S4 Swapping Seats]({{< relref "/docs/2020/S4" >}})
 <br />
 
 - **Helpful Tips**
