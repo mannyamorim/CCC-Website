@@ -1,8 +1,8 @@
 ---
-title: "2020-S3 Searching for Strings"
+title: "2020-S3 Searching for Strings - Solution"
 ---
 
-# 2020-S3 Searching for Strings
+# 2020-S3 Searching for Strings - Solution
 
 ## Read Input
 
