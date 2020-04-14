@@ -25,6 +25,20 @@ We of course need to find the histogram of the first substring which will take O
 
 Since we want to find the number of **unique** permutations of needle in haystack. We will use the method above to find permutations and then we will simply store them in a hashset since the hashset will only store unique elements. Once all of the permutations have been added to the hashset we will simply output the number of elements in the hashset as our final answer.
 
+We will take a look at different ways of hashing and storing the elements. Since we are primarily concerned with C++ in this website we will be looking at C++ classes however the lessons learned are applicable in any language. We will want to use a C++ `unordered_set` to hold the strings however we need to be careful what container we use to store the strings.
+
+### std::string
+
+If we use a `std::string` we will note that `std::string` needs to own the memory that it points to. If we create a `std::string` from a buffer it will copy the memory. This will take too long so we need to find a faster solution.
+
+### std::string_view
+
+If we have access to C++17 we can try a `std::string_view`. This class allows us to have a string object without it owning the memory. It saves us from copying the memory in the buffer so this is an improvement over the `std::string`. One problem we still have is that the `unordered_set` will need to hash each of its items. Hashing the `std::string_view` will take O(N) time. As we did in Key Insight #2 we want to find a way to avoid taking O(N) time for each substring.
+
+### custom pre_hashed_string_view
+
+For our solution we combined the idea of the string view with that of a [rolling hash](https://en.wikipedia.org/wiki/Rolling_hash). We can use the rolling hash function to compute the hash of each string incrementally in constant time. Then our custom class will take the hash as a constructor parameter and store it for future use by the `unordered_set`.
+
 {{< hint warning >}}
 **Please attempt to solve the problem on your own before viewing the solution!**  
 [View Solution]({{< relref "solution" >}})
