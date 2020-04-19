@@ -7,8 +7,16 @@
 {{ .Page.Scratch.Set "katex" true }}
 {{ end }}
 
+{{ if in .Params "display" }}
+<div style="overflow: auto;">
+{{ end }}
+
 <span class="katex{{ with .Get "class" }} {{ . }}{{ end }}">
   {{ if in .Params "display" }}\[{{ else }}\({{ end -}}
   {{ $.Inner }}
   {{- if in .Params "display" }}\]{{ else }}\){{ end }}
 </span>
+
+{{ if in .Params "display" }}
+</div>
+{{ end }}
