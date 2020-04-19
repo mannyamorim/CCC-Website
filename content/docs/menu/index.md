@@ -17,6 +17,7 @@ headless: true
 - **2020**
 	- [S3 Searching for Strings]({{< relref "/docs/2020/S3" >}})
 	- [S4 Swapping Seats]({{< relref "/docs/2020/S4" >}})
+	- [S5 Josh's Double Bacon Deluxe]({{< relref "/docs/2020/S5" >}})
 <br />
 
 - **Helpful Tips**
