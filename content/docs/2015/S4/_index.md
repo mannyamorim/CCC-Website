@@ -6,7 +6,7 @@ title: "2015-S4 Convex Hull"
 
 {{< hint info >}}
 **Problem Description**  
-[View Problem](https://cemc.uwaterloo.ca/contests/computing/2015/stage%201/seniorEn.pdf)
+[View Problem](https://cemc.uwaterloo.ca/contests/computing/past_ccc_contests/2015/stage%201/seniorEn.pdf)
 {{< /hint >}}
 
 ## Key Insight

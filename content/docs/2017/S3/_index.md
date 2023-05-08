@@ -6,7 +6,7 @@ title: "2017-S3 Nailed It!"
 
 {{< hint info >}}
 **Problem Description**  
-[View Problem](https://cemc.uwaterloo.ca/contests/computing/2017/stage%201/seniorEF.pdf)
+[View Problem](https://cemc.uwaterloo.ca/contests/computing/past_ccc_contests/2017/stage%201/seniorEF.pdf)
 {{< /hint >}}
 
 ## Key Insight #1

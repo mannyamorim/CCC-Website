@@ -6,7 +6,7 @@ title: "2016-CCOQR-Q3 Data Structure"
 
 {{< hint info >}}
 **Problem Description**  
-[View Problem](https://cemc.uwaterloo.ca/contests/computing/2016/CCOQR/data_structure.pdf)
+[View Problem](https://cemc.uwaterloo.ca/contests/computing/past_ccc_contests/2016/CCOQR/data_structure.pdf)
 {{< /hint >}}
 
 ## Key Insight #1

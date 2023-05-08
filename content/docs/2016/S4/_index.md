@@ -6,7 +6,7 @@ title: "2016-S4 Combining Rice Balls"
 
 {{< hint info >}}
 **Problem Description**  
-[View Problem](https://cemc.uwaterloo.ca/contests/computing/2016/stage%201/seniorEn.pdf)
+[View Problem](https://cemc.uwaterloo.ca/contests/computing/past_ccc_contests/2016/stage%201/seniorEn.pdf)
 {{< /hint >}}
 
 ## Analysis

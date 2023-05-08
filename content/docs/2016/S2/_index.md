@@ -6,7 +6,7 @@ title: "2016-S2 Tandem Bicycle"
 
 {{< hint info >}}
 **Problem Description**  
-[View Problem](https://cemc.uwaterloo.ca/contests/computing/2016/stage%201/seniorEn.pdf)
+[View Problem](https://cemc.uwaterloo.ca/contests/computing/past_ccc_contests/2016/stage%201/seniorEn.pdf)
 {{< /hint >}}
 
 ## Key Insight #1 (Minimum)

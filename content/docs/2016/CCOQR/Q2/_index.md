@@ -6,7 +6,7 @@ title: "2016-CCOQR-Q2 Through A Maze Darkly"
 
 {{< hint info >}}
 **Problem Description**  
-[View Problem](https://cemc.uwaterloo.ca/contests/computing/2016/CCOQR/maze.pdf)
+[View Problem](https://cemc.uwaterloo.ca/contests/computing/past_ccc_contests/2016/CCOQR/maze.pdf)
 {{< /hint >}}
 
 ## Key Insight #1

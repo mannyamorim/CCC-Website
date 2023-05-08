@@ -6,7 +6,7 @@ title: "2020-S3 Searching for Strings"
 
 {{< hint info >}}
 **Problem Description**  
-[View Problem](https://cemc.uwaterloo.ca/contests/computing/2020/stage%201/seniorEF.pdf)
+[View Problem](https://cemc.uwaterloo.ca/contests/computing/past_ccc_contests/2020/ccc/seniorEF.pdf)
 {{< /hint >}}
 
 ## Key Insight #1
